@@ -1,0 +1,26 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team A",
+      "projectName": "Project X",
+      "level": "Beginner",
+      "projectDescription": "A new project.",
+      "participants": [
+        {
+          "id": 1,
+          "fullname": "saif",
+          "email": "a@example.com"
+        }
+      ]
+    },
+    {
+      "id": "0435",
+      "name": "saif laameri",
+      "projectName": "sdd",
+      "level": "ddd",
+      "projectDescription": "fffff",
+      "participants": []
+    }
+  ]
+}
